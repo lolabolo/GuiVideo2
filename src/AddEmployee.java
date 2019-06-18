@@ -5,7 +5,7 @@
  */
 
 /**
- *
+ * Bubu
  * @author Verosffy
  */
 public class AddEmployee extends javax.swing.JFrame {
